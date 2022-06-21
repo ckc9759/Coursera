@@ -48,12 +48,14 @@
   * Consider alternatives.
  
 * Useful articles: 
-* https://www.wicys.org/about/our-story/
-* https://www.wicys.org/resources/
-* https://www.sans.org/apac/
-* https://www.sans.org/blog/cis-controls-v8/
-* https://www.owasp.org/index.php/Category:OWASP_Project#tab=Project_Inventory
-* 
+  * https://www.wicys.org/about/our-story/
+  * https://www.wicys.org/resources/
+  * https://www.sans.org/apac/
+  * https://www.sans.org/blog/cis-controls-v8/
+  * https://www.owasp.org/index.php/Category:OWASP_Project#tab=Project_Inventory
+  * https://cdn.ymaws.com/www.members.issa.org/resource/resmgr/journalpdfs/feature0619.pdf
+  * https://www.first.org/membership/benefits
+  * https://cybersecurityventures.com/cybersecurity-associations/#home/?view_1_page=1 
 
 ---
 

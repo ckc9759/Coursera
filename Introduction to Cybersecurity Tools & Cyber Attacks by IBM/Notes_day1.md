@@ -1,5 +1,7 @@
 ### Notes:
 
+---
+
 #### Day1 
 
 * `Nist definition of cyber security`: The protection of information system from unauthorized access, use, disclosure, disruption, modification or destruction in order to protect confidentiality, integrity and availability of system is called `CyberSecurity`.
@@ -38,4 +40,7 @@
 * `Integrity` : sender, receievr wants to ensure message is not altered.
 * The art of war describes us to rely not on the likelihood of enemy's not coming but on our own readiness to receive him. - SUN TZU
 * `Alice and bob could be` - real persons, web browsers servers, banking clients, DNS servers, routers etc.
-* 
+
+
+---
+Thank you

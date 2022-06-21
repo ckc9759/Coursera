@@ -12,6 +12,9 @@
   * ##### Threat - An event (artificial or man made) causing negative impact on an organization.
   * ##### Exploit - It is the way to breach into a system via vulnerability.
   * ##### Risk - Situation involving exposure to danger.
+
+---
+
 * `Security threats` - Human factors and natural factors.   
   * ##### Human - Former employees, current employees hackers or crackers. 
   * ##### Natual - Calamtities.
@@ -28,6 +31,9 @@
   * Vulnerability assessor
   * Security software developer
   * SEM Engineer
+
+---
+
 * `Things to watch out` - War games... 9/11 attack Pearl harbour Ronald reagan
 * Steps in security: 
   * ##### Security program:

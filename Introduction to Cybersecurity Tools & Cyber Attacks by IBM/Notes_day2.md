@@ -40,6 +40,21 @@
   * Operating system.
   * Database modelling.
 
+* #### 5 Key skills in critical thinking : 
+  * Challenge assumptions.
+  * Identify key drivers.
+  * Understand context.
+  * Evaluate data.
+  * Consider alternatives.
+ 
+* Useful articles: 
+* https://www.wicys.org/about/our-story/
+* https://www.wicys.org/resources/
+* https://www.sans.org/apac/
+* https://www.sans.org/blog/cis-controls-v8/
+* https://www.owasp.org/index.php/Category:OWASP_Project#tab=Project_Inventory
+* 
+
 ---
 
 

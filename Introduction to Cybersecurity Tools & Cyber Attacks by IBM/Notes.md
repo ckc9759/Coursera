@@ -25,4 +25,6 @@
   * Penetration tester / Ethical hacker
   * Vulnerability assessor
   * Security software developer
-*    
+  * SEM Engineer
+* `Things to watch out` - War games... 9/11 attack Pearl harbour Ronald reagan
+* 

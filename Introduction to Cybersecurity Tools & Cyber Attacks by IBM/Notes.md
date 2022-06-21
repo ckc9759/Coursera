@@ -27,4 +27,15 @@
   * Security software developer
   * SEM Engineer
 * `Things to watch out` - War games... 9/11 attack Pearl harbour Ronald reagan
+* Steps in security: 
+  * ##### Security program:
+  * ##### Admin controls:
+  * ##### Asset manage:
+  * ##### Tech controls: 
+* `Reading`: https://www.entrepreneur.com/article/314672
+* `Confidentiality` : sender encrytps the message , receiver decrypts the message.
+* `Authentication` : sender, reciever wants to confirm identity of each other.
+* `Integrity` : sender, receievr wants to ensure message is not altered.
+* The art of war describes us to rely not on the likelihood of enemy's not coming but on our own readiness to receive him. - SUN TZU
+* `Alice and bob could be` - real persons, web browsers servers, banking clients, DNS servers, routers etc.
 * 

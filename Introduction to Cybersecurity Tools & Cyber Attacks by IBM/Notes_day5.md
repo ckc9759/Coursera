@@ -43,3 +43,13 @@
 * Stateful: Have a state tables that allow the firewall to compare the current packets with the previous ones. slower than stateless firewalls but more secure.
 
 * `Proxy firewalls` : act as an intermediate server. They terminate connections and start new ones.
+
+---
+
+* `Antimalware / Antivirus` : They are specialized software that can detect, prevent and even destroy a computer malware or virus.
+*  It uses malware definitions and then scans the whole system searching for matching defintions.
+*  The defintions are constantly upgraded by the vendor which is known as an "Update".
+
+---
+
+Thank you

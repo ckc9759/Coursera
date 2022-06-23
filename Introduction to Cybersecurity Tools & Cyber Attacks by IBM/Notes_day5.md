@@ -21,8 +21,11 @@
   * ICMP message type.
   * TCP SYN and ACK bits.
 
-* `Application gateway` : These are also packet filters. They are applied on applications as well as on IP/TCP/UDP fields.
+* `Application gateway` : These are also packet filters. They are applied on applications as well as on IP/TCP/UDP fields. Example: Allow selected internal users to telnet outside.
+* `Limitations of firewalls and gateways` : IP spoofing: router doesn't know if data is really coming from the claimed source.
+* Client softwares must know how to contact gateways.
+* Filters often use all or nothing policy for UDP.
 
 ---
 
-*
+* `XML gateway` : 
